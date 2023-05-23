@@ -27,4 +27,3 @@ Com o array acima e pensando que a nota média é 8, faça as seguintes funçõe
 
 ## Teste de mesa
 Realize a montagem do teste de mesa para validar a lógica do seu algorítimo, use esse recurso antes de recorrer a ajuda do suporte.
-# project-array-students-grading
